@@ -1,0 +1,12 @@
+.txtBox {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.numBtns {
+    text-align: center;
+}
+
+.numBtns > button {
+    border-radius: 3px;
+}
